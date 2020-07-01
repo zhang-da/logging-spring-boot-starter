@@ -5,9 +5,11 @@
     <parent>
         <artifactId>logging-spring-boot-starter</artifactId>
         <groupId>com.github.zhang-da</groupId>
-        <version>0.0.1</version>
+        <version>1.0.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+
+    <version>1.0.0</version>
 
     <artifactId>my-logging-spring-boot-starter</artifactId>
 

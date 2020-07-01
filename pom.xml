@@ -6,7 +6,7 @@
 
 	<groupId>com.github.zhang-da</groupId>
 	<artifactId>logging-spring-boot-starter</artifactId>
-	<version>0.0.1</version>
+	<version>1.0.0</version>
 	<name>logging-spring-boot-starter</name>
 
 	<modules>
