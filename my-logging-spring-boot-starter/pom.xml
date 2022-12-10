@@ -14,7 +14,7 @@
     <artifactId>my-logging-spring-boot-starter</artifactId>
 
     <properties>
-        <spring.version>5.1.6.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <javax-servlet.version>4.0.1</javax-servlet.version>
         <commons-io.version>2.7</commons-io.version>
         <slf4j.version>1.7.30</slf4j.version>
